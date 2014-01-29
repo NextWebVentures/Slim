@@ -20,5 +20,8 @@
     },
     "autoload": {
         "psr-0": { "Slim": "." }
+    },
+    "replace": {
+        "slim-slim":"self.version"
     }
 }
